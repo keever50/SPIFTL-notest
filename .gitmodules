@@ -1,3 +1,0 @@
-[submodule "nbdkit"]
-	path = nbdkit
-	url = https://github.com/libguestfs/nbdkit.git
